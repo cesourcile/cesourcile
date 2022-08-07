@@ -8,7 +8,7 @@ I'm here to create projects with fun, so if you have something in mind i can hel
 
 <br/>
 
-## Languages  
+## Languages that I know or may know
 <br/>
 <div align="center">  
 <table>
@@ -36,7 +36,7 @@ I'm here to create projects with fun, so if you have something in mind i can hel
   
   </table>
 
-## Some statistics
+## Some statistics (because it's funny)
 <br/>
 <div align="center">
   <table>
