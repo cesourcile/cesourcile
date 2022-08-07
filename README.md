@@ -52,7 +52,6 @@ I'm here to create projects with fun, so if you have something in mind i can hel
     <td><b>MySQL</b></td>
 </tr></table></div></td>
 
-<td valign="top" width="50%"> 
   ### Some statistics 
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cesourcile&theme=radical&hide_langs_below=8&count_private=true)
   ![](https://github-readme-stats.vercel.app/api?username=cesourcile&show_icons=true&theme=radical&count_private=true)
