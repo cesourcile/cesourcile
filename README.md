@@ -8,8 +8,6 @@ I'm here to create projects with fun, so if you have something in mind i can hel
 
 <br/>
 
-<table><tr><td valign="top" width="50%">
-
 ## Languages  
 <br/>
 <div align="center">  
@@ -37,8 +35,6 @@ I'm here to create projects with fun, so if you have something in mind i can hel
   </tr>
   
   </table>
-</div>
-</td><td valign="top" width="50%">
 
 ## Some statistics
 <br/>
@@ -48,8 +44,6 @@ I'm here to create projects with fun, so if you have something in mind i can hel
     <img src="https://github-readme-stats.vercel.app/api?username=cesourcile&show_icons=true&theme=radical&count_private=true" />
   </table>
 </div>
-
-</td></tr></table>  
 
 <br/>  
 
