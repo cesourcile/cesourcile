@@ -16,44 +16,26 @@ I'm here to create projects with fun, so if you have something in mind i can hel
 <table>
   <tr>
     <td><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></td>
-    <td><b>Python</b></td>
-  </tr>
-  
-
-  <tr>
-    <td><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></td>
-    <td><b>C</b></td>
-  </tr>
-  
-  <tr>
+        <td><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></td>
     <td><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></td>
-    <td><b>C#</b></td>
-  </tr>
-  
-  <tr>
     <td><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C#" height="50" /></td>
-    <td><b>C++</b></td>
-  </tr>
-
-  <tr>
     <td><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="MySQL" height="50" /></td>
-    <td><b>Java</b></td>
-  </tr>
-
-  <tr>
     <td><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></td>
-    <td><b>JavaScript</b></td>
-  </tr>
-
-  <tr>
     <td><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></td>
-    <td><b>HTML</b></td>
+    <td><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></td>
   </tr>
 
   <tr>
-    <td><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></td>
+    <td><b>Python</b></td>
+    <td><b>C</b></td>
+    <td><b>C#</b></td>
+    <td><b>C++</b></td>
+    <td><b>Java</b></td>
+    <td><b>JavaScript</b></td>
+    <td><b>HTML</b></td>
     <td><b>MySQL</b></td>
   </tr>
+  
   </table>
 </div>
 </td><td valign="top" width="50%">
