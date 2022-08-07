@@ -1,13 +1,17 @@
 # Hi everyone ! 👋
 
 I'm Cecile, an IT student at EPITA in France.
+
 I'm from Reunion Island. 🌋
 
 I'm here to create projects with fun, so if you have something in mind i can help with, just contact me ! 🔥
 
-<table><tr><td valign="top" width="50%">
 
-# Languages  
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### Languages  
 <div align="center">  
 <table>
   
@@ -49,16 +53,19 @@ I'm here to create projects with fun, so if you have something in mind i can hel
   <tr>
     <td><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></td>
     <td><b>MySQL</b></td>
-  </tr>
-  </table>
-  </div>
-  </td><td valign="top" width="50%">
-  
-  # Some statistics 
+</tr>
+</table>
+</div>
+</td>
+
+<td valign="top" width="50%"> 
+  ### Some statistics 
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cesourcile&theme=radical&hide_langs_below=8&count_private=true)
   ![](https://github-readme-stats.vercel.app/api?username=cesourcile&show_icons=true&theme=radical&count_private=true)
   
-</td></tr></table>  
+</td>
+</tr>
+</table>  
 
 
 <!--
