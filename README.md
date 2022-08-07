@@ -24,7 +24,8 @@ I'm here to create projects with fun, so if you have something in mind i can hel
 <br/>
 
 ## Languages that I know (or may know)
-<br/>
+
+<div align="center">
 <table>
   <tr>
     <td><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></td>
@@ -53,6 +54,7 @@ I'm here to create projects with fun, so if you have something in mind i can hel
 <br/>
 
 ## Some statistics (because it's funny)
+  
 <div align="center">
   <table>
     <tr>
@@ -65,6 +67,8 @@ I'm here to create projects with fun, so if you have something in mind i can hel
 <br/>  
   
 ## If you want to contact me
+  
+<div align="center">
 <a href="https://github.com/cesourcile" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
