@@ -1,4 +1,4 @@
-### Hi everyone ! 👋
+# Hi everyone ! 👋
 
 - I'm Cecile, an IT student at EPITA in France.
 - I'm from Reunion Island. 🌋
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 -->
 
 
-### Some statistics 
-| Quelques statistiques | | |
-| :---: |:---:| :---:|
-| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cesourcile&theme=radical&hide_langs_below=8&count_private=true)     |  | ![](https://github-readme-stats.vercel.app/api?username=cesourcile&show_icons=true&theme=radical&count_private=true) |
+# Some statistics 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=cesourcile&theme=radical&hide_langs_below=8&count_private=true)
+
+![](https://github-readme-stats.vercel.app/api?username=cesourcile&show_icons=true&theme=radical&count_private=true) |
