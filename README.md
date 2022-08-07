@@ -23,7 +23,7 @@ I'm here to create projects with fun, so if you have something in mind i can hel
 
 <br/>
 
-## Languages that I know (or may know)
+## Languages that I know
 
 <div align="center">
 <table>
