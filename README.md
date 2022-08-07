@@ -48,6 +48,7 @@ I'm here to create projects with fun, so if you have something in mind i can hel
 </div>
 </td><td valign="top" width="50%">
 
+</td></tr></table>  
 
 
 <!--
