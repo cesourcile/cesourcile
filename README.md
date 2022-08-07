@@ -63,6 +63,7 @@ I'm here to create projects with fun, so if you have something in mind i can hel
       <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesourcile&theme=radical&hide_langs_below=8&count_private=true" /></td>
     </tr>
   </table>
+  </div>
 
 <br/>  
   
