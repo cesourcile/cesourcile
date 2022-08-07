@@ -35,8 +35,9 @@ I'm here to create projects with fun, so if you have something in mind i can hel
   
   </table>
 
-## Some statistics (because it's funny)
 <br/>
+
+## Some statistics (because it's funny)
 <div align="center">
   <table>
     <img src="https://github-readme-stats.vercel.app/api?username=cesourcile&show_icons=true&theme=radical&count_private=true" />
