@@ -55,8 +55,10 @@ I'm here to create projects with fun, so if you have something in mind i can hel
 ## Some statistics (because it's funny)
 <div align="center">
   <table>
-    <img src="https://github-readme-stats.vercel.app/api?username=cesourcile&show_icons=true&theme=radical&count_private=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesourcile&theme=radical&hide_langs_below=8&count_private=true" />
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=cesourcile&show_icons=true&theme=radical&count_private=true" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesourcile&theme=radical&hide_langs_below=8&count_private=true" /></td>
+    </tr>
   </table>
 </div>
 
