@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 -->
 
 
-| Quelques statistiques | | |
+### Some statistics
 | :---: |:---:| :---:|
 | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cesourcile&theme=radical&hide_langs_below=8&count_private=true)     |  | ![](https://github-readme-stats.vercel.app/api?username=cesourcile&show_icons=true&theme=radical&count_private=true) |
