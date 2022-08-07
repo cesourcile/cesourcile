@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi everyone ! 👋
+
+- I'm Cecile, an IT student at EPITA in France.
+- I'm from Reunion Island. 🌋
+
+- I'm here to create project with fun, so if you have something in mind i can help with, just contact me ! 🔥
+
 
 <!--
 **cesourcile/cesourcile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
