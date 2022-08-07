@@ -7,12 +7,9 @@ I'm from Reunion Island. 🌋
 I'm here to create projects with fun, so if you have something in mind i can help with, just contact me ! 🔥
 
 
-
-<br/>  
-
 <table><tr><td valign="top" width="50%">
 
-### Languages  
+## Languages  
 <div align="center">  
 <table>
   <tr>
@@ -59,7 +56,7 @@ I'm here to create projects with fun, so if you have something in mind i can hel
 </div>
 </td><td valign="top" width="50%">
 
-### Some statistics 
+## Some statistics 
 <div align="center">
   <table>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesourcile&theme=radical&hide_langs_below=8&count_private=true" />
