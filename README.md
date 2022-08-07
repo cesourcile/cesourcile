@@ -5,11 +5,9 @@ I'm from Reunion Island. 🌋
 
 I'm here to create projects with fun, so if you have something in mind i can help with, just contact me ! 🔥
 
-# Languages
-
 <table><tr><td valign="top" width="50%">
 
-### Languages  
+# Languages  
 <div align="center">  
 <table>
   
