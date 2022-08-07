@@ -60,6 +60,7 @@ I'm here to create projects with fun, so if you have something in mind i can hel
 <div align="center">
 <table>
   <tr>
+    <td><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></td>
     <td><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></td>
     <td><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></td>
     <td><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></td>
@@ -68,6 +69,7 @@ I'm here to create projects with fun, so if you have something in mind i can hel
   </tr>
 
   <tr>
+    <td><b>Git</b></td>
     <td><b>Visual Studio Code</b></td>
     <td><b>PyCharm</b></td>
     <td><b>CLion</b></td>
@@ -79,8 +81,6 @@ I'm here to create projects with fun, so if you have something in mind i can hel
 </div>
 
 <br/>
-
-
 
 ## Some statistics (because it's funny)
   
